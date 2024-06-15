@@ -183,6 +183,6 @@ USED:
 
 ------
 
-Credit: [Dum6o](https://github.com/Dum6o)
+Credit: [Luxif3ro](https://github.com/Luxif3ro)
 
-Last Edited on: 04/04/2022
+Last Edited on: 14/06/24
