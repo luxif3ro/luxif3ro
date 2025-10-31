@@ -157,11 +157,6 @@
       src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
   </a>
-  <a href="https://www.x.com/luxif3ro0819/">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=x"
-      alt="x">
-  </a>
   </br>
 
   <img
