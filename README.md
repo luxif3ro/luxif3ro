@@ -11,12 +11,7 @@
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="60px"
-    alt="Python">
-    &nbsp;&nbsp;&nbsp;&nbsp;
- 
+  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="60px"
@@ -53,17 +48,7 @@
     alt="Apache Kafka">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     width="60px"
     alt="Gradle">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,7 +69,7 @@
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,11 +81,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
     width="60px"
     alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
-    width="60px"
-    alt="Jenkins">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
